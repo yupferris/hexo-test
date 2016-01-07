@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300,300italic,600,400italic,600italic,700italic,800italic);
+
+html, body {
+    font-family: "Open Sans", sans-serif;
+    background: #e8eeec;
+    color: #2a2533;
+}
+
+header {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.button.button-primary {
+    background: #766b82;
+    border: #766b82;
+}
+
+.button.button-primary:hover {
+    background: #2a2533;
+    border: #2a2533;
+}
